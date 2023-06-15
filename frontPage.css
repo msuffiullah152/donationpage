@@ -59,4 +59,10 @@ a:hover {
     margin-left: 10%;
 
 }
-
+#copyright{
+    align-content: center;
+    text-align: center;
+    text-shadow: 0.5px 0.5px 4px rgb(0, 140, 255);
+    font-size:20px;
+    width: auto;
+}
